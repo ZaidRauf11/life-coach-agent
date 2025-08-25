@@ -98,7 +98,7 @@ Take a deep breath 🌿. Try a quick 5-minute break away from your screen—it c
 
 ## 📸 App Preview
 
-*(<img width="961" height="741" alt="2" src="https://github.com/user-attachments/assets/60fefb8d-388d-4f54-8592-f3e573530427" />)*
+<img width="961" height="741" alt="2" src="https://github.com/user-attachments/assets/60fefb8d-388d-4f54-8592-f3e573530427" />
 
 ---
 
